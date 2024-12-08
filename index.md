@@ -1,4 +1,5 @@
 # 单单工作室（逃离学校）官网
+### [前往博客](https://goodjobabc.github.io/)
 >负一层基地
 <br>
 <a href="https://goodjobABC.github.io/base.github.io/download/download.html">逃离学校下载</a>
